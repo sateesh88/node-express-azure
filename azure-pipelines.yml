@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'WindowsAgent'
+  vmImage: 'Agent1'
 
 steps:
 - task: NodeTool@0
